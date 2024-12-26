@@ -28,7 +28,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Solution Link](https://github.com/saxabani/order-summary-component-main)
-- Live Site URL: [Live Link](https://your-live-site-url.com)
+- Live Site URL: [Live Link](https://saxabani.github.io/order-summary-component-main/)
 
 ## My process
 
